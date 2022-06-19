@@ -1,2 +1,2 @@
-# Animal-Trading-Card-Project-Udacity-FEND
-first project for Udacity FEND program - completed 5/19/2022
+# Animal-Trading-Card-Project
+Animal Trading Card Project for Udacity Front-End Web Development Nanodegree
